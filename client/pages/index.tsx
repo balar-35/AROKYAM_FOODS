@@ -22,7 +22,7 @@ const specialFoods = [
   {
     id: 1,
     name: "Chettinad Chicken Biryani",
-    price: "₹320",
+    price: "₹32",
     rating: 4.8,
     image:
       "https://cdn.builder.io/api/v1/image/assets%2F484c6be2bdff4776bbfa6da91d814f6e%2F0b594083b5274cb8b627cd122e4ae092",
